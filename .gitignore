@@ -1,0 +1,15 @@
+# Ignore compiled executables
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore temporary files
+*~
+
+# Ignore Python virtual environment directories
+.venv/
+venv/
+
+# Ignore dependency files (if any)
+node_modules/
